@@ -8,3 +8,4 @@ description = "A Rust project"
 repository = "https://github.com/casey/user"
 
 [dependencies]
+dirs = "5.0.1"
