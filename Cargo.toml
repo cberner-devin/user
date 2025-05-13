@@ -1,10 +1,10 @@
 [package]
 name = "user"
-version = "0.1.0"
+version = "0.0.0"
 edition = "2021"
-authors = ["Chris Berner <christopherberner@gmail.com>"]
+authors = ["Christopher Berner <me@cberner.com>", "Casey Rodarmor <casey@rodarmor.com>"]
 license = "CC0-1.0"
 description = "A Rust project"
-repository = "https://github.com/cberner-devin/user"
+repository = "https://github.com/casey/user"
 
 [dependencies]
